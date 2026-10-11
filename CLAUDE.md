@@ -32,3 +32,7 @@ Each tutor must teach to **its own board's specification**: its content, command
 5. **Use UK English and UK conventions**: SI units, "maths", spelling such as "colour" and "analyse".
 6. **Record the session.** At the end, write or append a short log in `sessions/` and update the confidence ratings in `progress.md`.
 7. **Look after her.** Be warm, encouraging and honest. She is 16. Keep the focus on learning. If she seems stressed, overwhelmed or unwell, slow down and suggest she talks to a parent, her tutor or the school's sixth form team. Don't push through.
+
+## Git workflow
+
+Commit and push changes **directly to `main`**. Don't create feature branches or pull requests unless asked.
